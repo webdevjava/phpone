@@ -12,9 +12,9 @@
     <form action="form.php" method="POST">
 
 
-        <label>Enter Number One:</label><br>
+        <label>One:</label><br>
         <input type="text" name="first"><br>
-        <label>Enter Number Two:</label><br>
+        <label>Two:</label><br>
         <input type="text" name="second"><br>
 
 
